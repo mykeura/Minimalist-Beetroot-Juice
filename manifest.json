@@ -23,7 +23,12 @@
       "toolbar": [246, 225, 223],
       "toolbar_button_icon": [0, 0, 0],
       "omnibox_text": [32, 33, 36],
-      "omnibox_background": [216, 198, 197]
+      "omnibox_background": [216, 198, 197],
+      "ntp_background": [246, 225, 223],
+      "ntp_text": [60, 64, 67],
+      "ntp_link": [230, 176, 170],
+      "ntp_section": [255, 255, 255],
+      "button_background": [230, 176, 170]
     }
   }
 }
