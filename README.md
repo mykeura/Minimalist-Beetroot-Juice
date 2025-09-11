@@ -1,6 +1,6 @@
 # Minimalist Beetroot Juice 🍇
 
-The official Minimalist Betroot Juice theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Beetroot Juice, designed for a serene and elegant browsing experience.
+The official Minimalist Beetroot Juice theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Beetroot Juice, creating a serene and focused browsing experience.
 
 ![Minimalist Beetroot Juice Theme Preview](images/preview.png)
 
