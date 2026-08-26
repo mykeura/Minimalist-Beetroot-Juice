@@ -1,4 +1,4 @@
-# Minimalist Beetroot Juice 🍆
+# Minimalist Beetroot Juice
 
 A minimal Chrome theme in a calm, dusty-rose palette, by Miguel Euraque.
 
